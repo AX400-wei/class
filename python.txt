@@ -1,6 +1,12 @@
 Hellow world!
-������ϰgit
+我在练习git
 
-:w �����ļ������˳�vim
-:w file ���޸����Ᵽ�浽file�У����˳�vim
-:w! ǿ�Ʊ��棬���˳�vim
+进入代码仓库内部：
+:w 保存文件，不退出vim
+:w file 将修改另外保存到file中，不退出vim
+:w! 强制保存，不退出vim
+:wq 保存文件，退出vim
+:wq! 强制保存文件，退出vim
+:q 不保存文件，退出vim
+:q! 不保存文件，强制退出vim
+:e! 放弃所有修改，从上次保存文件开始再编辑
