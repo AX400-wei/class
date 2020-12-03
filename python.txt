@@ -1,2 +1,6 @@
 Hellow world!
 我在练习git
+
+:w 保存文件，不退出vim
+:w file 将修改另外保存到file中，不退出vim
+:w! 强制保存，不退出vim
